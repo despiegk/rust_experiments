@@ -1,0 +1,11 @@
+/Users/despiegk/code/github/despiegk/rust_experiments/kds/target/debug/deps/libcrc32fast-d0903f5ea6a85e4d.rmeta: /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs
+
+/Users/despiegk/code/github/despiegk/rust_experiments/kds/target/debug/deps/libcrc32fast-d0903f5ea6a85e4d.rlib: /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs
+
+/Users/despiegk/code/github/despiegk/rust_experiments/kds/target/debug/deps/crc32fast-d0903f5ea6a85e4d.d: /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs /Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs
+
+/Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/lib.rs:
+/Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/baseline.rs:
+/Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/combine.rs:
+/Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/specialized/mod.rs:
+/Users/despiegk/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.4.0/src/table.rs:
